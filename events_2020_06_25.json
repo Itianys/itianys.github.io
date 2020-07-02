@@ -671,7 +671,84 @@
                         ]
                     }
                 ],
-                "isola": ""
+                "isola": [
+                    {
+                        "info": [
+                            {
+                                "info": "https://bdrsnc.sgc.gov.co/sismologia1/sismologia/focal_seiscomp_3/swift_sol.php?id_sismo=SGC2020mklavo"
+                            }
+                        ],
+                        "moment_tensor": [
+                            {
+                                "Myy": "1.2689e+16",
+                                "Myz": "4.5005e+16",
+                                "Mxx": "2.1863e+16",
+                                "Mxy": "2.8179e+16",
+                                "Mzx": "1.1031e+16",
+                                "Mzz": "-3.4558e+16"
+                            }
+                        ],
+                        "img": [
+                            {
+                                "img": "https://sismos.sgc.gov.co/events/SGC2020mklavo/mt/swift/beachball.png"
+                            }
+                        ],
+                        "nodal_planes": [
+                            {
+                                "NP1": [
+                                    {
+                                        "Strike": 337,
+                                        "Rake": -67,
+                                        "Dip": 71
+                                    }
+                                ],
+                                "NP2": [
+                                    {
+                                        "Strike": 104,
+                                        "Rake": -139,
+                                        "Dip": 29
+                                    }
+                                ]
+                            }
+                        ],
+                        "principal_axes": [
+                            {
+                                "P": [
+                                    {
+                                        "Plg": "22",
+                                        "Azm": "49",
+                                        "Val": null
+                                    }
+                                ],
+                                "T": [
+                                    {
+                                        "Plg": "57",
+                                        "Azm": "-82",
+                                        "Val": null
+                                    }
+                                ],
+                                "N": [
+                                    {
+                                        "Plg": "21",
+                                        "Azm": "149",
+                                        "Val": null
+                                    }
+                                ]
+                            }
+                        ],
+                        "location_centroid": [
+                            {
+                                "fecha": "2020-06-24 15:38:00",
+                                "Mw": 5.1,
+                                "longitude": -77.9,
+                                "unity": "Nm",
+                                "depth": 170,
+                                "M0": "6.2110e+16",
+                                "latitude": -1.6
+                            }
+                        ]
+                    }
+                ],
             }
         ],
         "time_UTC": "2020-06-24 15:38",
