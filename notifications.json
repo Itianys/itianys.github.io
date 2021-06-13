@@ -1,0 +1,441 @@
+{
+    "notifications": [
+        {
+            "type": "volcano",
+            "id": 2,
+            "properties": {
+                "VolcanoName": "Volcán Sotará",
+                "latitude": 2.107,
+                "longitude": -76.591,
+                "msnm": "4420.0 (msnm)",
+                "image": "https://saeadmin.sgc.gov.co/media/volcanoImages/Volcan_sotara.jpg",
+                "activityLevel": 3,
+                "activityLevelDescription": "Cambios en el comportamiento de la actividad volcánica",
+                "description": "El CVS se encuentra ubicado en la Cordillera Central de Colombia, en el límite entre los departamentos de Cauca y Huila, localizado a 37 km al SE de la ciudad de Popayán (departamento del Cauca) y a 400 km al SW de la ciudad de Bogotá D.C.\r\n\r\nLa población más cercana es el resguardo indígena de Rioblanco, localizado a 10 km al WSW del volcán Sotará, con 1500 habitantes aproximadamente. Otras poblaciones son Chapa, a 11 km al NW, Pueblo Quemado y Guachicono, al SW.\r\n\r\nLos drenajes más importantes alrededor del volcán son el río Quilcacé y la quebrada Las Flautas al NW, los ríos Blanco, Negro y Guachicono al WSW y el río Majuas al SE.\r\n\r\nEl estratovolcán antiguo (Pre-Sotará) evolucionó hasta un estado caldérico; los volcanes Cerro Negro y Cerro Azafatudo se desarrollaron en el flanco NW del edificio de Pre-Sotará, mientras que los volcanes Cerro Gordo y Sotará representan un vulcanismo resurgente posterior al colapso caldérico, construyéndose, el primero de ellos en el borde S y el segundo al interior de la caldera.\r\nEl Complejo Volcánico Sotará (CVS) incluye los remanentes de un estratovolcán antiguo (Pre-Sotará) sobre el cual se construyó el volcán Sotará (actualmente activo, con una altitud máxima cercana a los 4420 msnm) y otros centros eruptivos (Cerro Negro, Cerro Azafatudo y Cerro Gordo)",
+                "location": "El Complejo Volcánico Sotará se encuentra ubicado en la Cordillera Central de Colombia, en el límite entre los de​​​partamentos de Cauca y Huila",
+                "link": "https://www2.sgc.gov.co/sgc/volcanes/VolcanSotara/Paginas/generalidades-volcan-sotara.aspx",
+                "lastEruption": null,
+                "composition": "Estratovolcán o Volcán Compuesto",
+                "bulletins": [
+                    {
+                        "name": "Boletín semanal de actividad del Volcán Sotará del 1 al 7 de junio de 2021",
+                        "type": "Semanales",
+                        "update": "2021-06-09 08:54",
+                        "file": "https://saeadmin.sgc.gov.co/media/bulletin/Boletin_semanal_de_actividad_volcan_Sotara_del_01_al_07_de_junio_de_2021.pdf"
+                    }
+                ],
+                "news": []
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.107,
+                    -76.591
+                ]
+            }
+        },
+        {
+            "type": "volcano",
+            "id": 4,
+            "properties": {
+                "VolcanoName": "Volcán Nevado del Huila",
+                "latitude": 2.924,
+                "longitude": -76.029,
+                "msnm": "5364.0 (msnm)",
+                "image": "https://saeadmin.sgc.gov.co/media/volcanoImages/huila1.png",
+                "activityLevel": 3,
+                "activityLevelDescription": "Cambios en el comportamiento de la actividad volcánica",
+                "description": "El Complejo Volcánico Nevado del Huila (CVNH) conocido comúnmente como el Volcán Nevado del Huila, hace parte del Parque Nacional Natural del mismo nombre que está localizado entre los departamentos de Cauca, Huila y Tolima, en las coordenadas 2° 55' N y 76° 03' W a una distancia de 285 km al SW de Bogotá, 85 km al NE de Popayán y 60 km al WSW de Neiva (Figura 1). Su altura máxima, el Pico Central (5 364 m s.n.m.), corresponde al punto más alto de la cordillera Central y de los Andes en Colombia.\r\n\r\nEl Volcán Nevado del Huila es un complejo volcánico activo conformado por estratovolcanes y varios domos (en el Pico Sur). Su actividad ha sido dominantemente efusiva, pero en su desarrollo más reciente ha generado flujos piroclásticos producidos por colapsos y/o explosiones de domos. El Complejo Volcánico se ha formado a través de dos edificios sobrepuestos, llamados Pre-Huila y Huila. Este último se desarrolló en dos etapas: Edificio Antiguo y Edificio Actual. Los productos emitidos por este Complejo Volcánico han sido principalmente de composición andesítica.\r\n\r\nEl basamento de este Complejo Volcánico está conformado por rocas de diferente litología y edad, entre las que se destacan rocas metamórficas del Precámbrico (Neis de Quintero) y del Paleozoico (esquistos del Complejo Cajamarca), rocas plutónicas del Jurásico (cuarzodioritas y granodioritas del Batolito de La Plata, que conforman cerca del 60% del basamento) y rocas metasedimentarias del Cretácico (pizarras, fillitas y meta-areniscas). Sobre este basamento cruzan fallas con dirección general NNE, entre las que se encuentran las de Moras Oeste, Moras Este, Símbola, Inzá y Tálaga, y otras orientadas más hacia el NE, como las de Tóez y Calambayú. En la figura 2 se muestra el mapa geológico generalizado del CVNH.",
+                "location": "Está localizado entre los departamentos de Cauca, Huila y Tolima.",
+                "link": "https://www2.sgc.gov.co/sgc/volcanes/VolcanNevadoHuila/Paginas/generalidades.aspx",
+                "lastEruption": null,
+                "composition": "Estratovolcán o Volcán Compuesto",
+                "bulletins": [
+                    {
+                        "name": "Boletín semanal de actividad del Volcán Nevado del Huila del 1 al 7 de junio de 2021",
+                        "type": "Semanales",
+                        "update": "2021-06-09 08:57",
+                        "file": "https://saeadmin.sgc.gov.co/media/bulletin/Boletin_semanal_de_actividad_volcan_Nevado_del_Huila_del_01_al_07_de_junio_de_2021.pdf"
+                    }
+                ],
+                "news": []
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.924,
+                    -76.029
+                ]
+            }
+        },
+        {
+            "type": "volcano",
+            "id": 6,
+            "properties": {
+                "VolcanoName": "Volcán Cerro Negro",
+                "latitude": 0.83137,
+                "longitude": -77.96775,
+                "msnm": "4470.0 (msnm)",
+                "image": "https://saeadmin.sgc.gov.co/media/volcanoImages/cerronegro.jpg",
+                "activityLevel": 3,
+                "activityLevelDescription": "Cambios en el comportamiento de la actividad volcánica",
+                "description": "El Complejo Volcánico Chiles-Cerro Negro se edifica en intersecciones de la falla Chiles-Cerro Negro, con las fallas Chiles-Cumbal y Cerro Negro-Nasate, sobre un basamento representado por una secuencia potente de lavas pliocénicas, depositadas sobre rocas volcanosedimentarias de la formación Nariño, a su vez, depositadas sobre rocas de los grupos Dagua y Diabásico, así como sobre metamorfitas del grupo Cajamarca. El edifico actual del Chiles esta conformado fundamentalmente por varios episodios de flujos de lava y el volcán Cerro Negro por flujos de lava y de piroclástos. De acuerdo con análisis químicos y petrográficos, los productos del Complejo Volcánico de Chiles-Cerro Negro se clasifican como andesitas de dos piroxenos y olivínicas.",
+                "location": "Los volcanes Chiles y Cerro Negro están ubicados en la frontera de Colombia y Ecuador, en inmediaciones de la inspección de policía de Chiles, municipio de Cumbal, a distancias respectivas de 86 y 80 km al SW de la ciudad de Pasto y a 608 km al SW de Santa Fé de Bogotá, en las coordenadas geográficas 0°49' N y 77°56' W (Chiles) y 0°46' N y 77° 57' W (Cerro Negro). El acceso se realiza por dos carreteables principales, uno que parte desde Chiles hasta Tiuquer en Colombia, y otro desde Tufiño hasta Maldonado en el Ecuador; en el ascenso hasta las partes más altas se efectúa por numerosos caminos utilizados por la gente de la región.",
+                "link": "https://www2.sgc.gov.co/sgc/volcanes/VolcanCerroNegro/Paginas/generalidades.aspx",
+                "lastEruption": null,
+                "composition": "Estratovolcán o Volcán Compuesto",
+                "bulletins": [
+                    {
+                        "name": "Boletín semanal de actividad del Volcán Chiles y Cerro Negro del 1 al 7 de junio de 2021",
+                        "type": "Semanales",
+                        "update": "2021-06-09 07:58",
+                        "file": "https://saeadmin.sgc.gov.co/media/bulletin/Boletin_semanal_volcanes_Chiles-Cerro-Negro_8_jun_2021.pdf"
+                    }
+                ],
+                "news": []
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.83137,
+                    -77.96775
+                ]
+            }
+        },
+        {
+            "type": "volcano",
+            "id": 7,
+            "properties": {
+                "VolcanoName": "Volcán Chiles",
+                "latitude": 0.81653,
+                "longitude": -77.93625,
+                "msnm": "4748.0 (msnm)",
+                "image": "https://saeadmin.sgc.gov.co/media/volcanoImages/chiles.png",
+                "activityLevel": 3,
+                "activityLevelDescription": "Cambios en el comportamiento de la actividad volcánica",
+                "description": "El Complejo Volcánico Chiles-Cerro Negro se edifica en intersecciones de la falla Chiles-Cerro Negro, con las fallas Chiles-Cumbal y Cerro Negro-Nasate, sobre un basamento representado por una secuencia potente de lavas pliocénicas, depositadas sobre rocas volcanosedimentarias de la formación Nariño, a su vez, depositadas sobre rocas de los grupos Dagua y Diabásico, así como sobre metamorfitas del grupo Cajamarca. El edifico actual del Chiles esta conformado fundamentalmente por varios episodios de flujos de lava y el volcán Cerro Negro por flujos de lava y de piroclástos. De acuerdo con análisis químicos y petrográficos, los productos del Complejo Volcánico de Chiles-Cerro Negro se clasifican como andesitas de dos piroxenos y olivínicas.",
+                "location": "Los volcanes Chiles y Cerro Negro están ubicados en la frontera de Colombia y Ecuador, en inmediaciones de la inspección de policía de Chiles, municipio de Cumbal, a distancias respectivas de 86 y 80 km al SW de la ciudad de Pasto y a 608 km al SW de Santa Fé de Bogotá, en las coordenadas geográficas 0°49' N y 77°56' W (Chiles) y 0°46' N y 77° 57' W (Cerro Negro). El acceso se realiza por dos carreteables principales, uno que parte desde Chiles hasta Tiuquer en Colombia, y otro desde Tufiño hasta Maldonado en el Ecuador; en el ascenso hasta las partes más altas se efectúa por numerosos caminos utilizados por la gente de la región.",
+                "link": "https://www2.sgc.gov.co/sgc/volcanes/VolcanChiles/Paginas/generalidades-volcan-chiles.aspx",
+                "lastEruption": null,
+                "composition": "Estratovolcán o Volcán Compuesto",
+                "bulletins": [
+                    {
+                        "name": "Boletín semanal de actividad del Volcán Chiles y Cerro Negro del 1 al 7 de junio de 2021",
+                        "type": "Semanales",
+                        "update": "2021-06-09 07:59",
+                        "file": "https://saeadmin.sgc.gov.co/media/bulletin/Boletin_semanal_volcanes_Chiles-Cerro-Negro_8_jun_2021_SokDRYk.pdf"
+                    }
+                ],
+                "news": []
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.81653,
+                    -77.93625
+                ]
+            }
+        },
+        {
+            "type": "volcano",
+            "id": 9,
+            "properties": {
+                "VolcanoName": "Volcán Cerro Machín",
+                "latitude": 4.487,
+                "longitude": -75.386,
+                "msnm": "2750.0 (msnm)",
+                "image": "https://saeadmin.sgc.gov.co/media/volcanoImages/Volcan_Cerro_Machin.png",
+                "activityLevel": 3,
+                "activityLevelDescription": "Cambios en el comportamiento de la actividad volcánica",
+                "description": "Este volcán es llamado Machín, Cerro Machín, Alto de Machín y El Hoyo.\r\n\r\nEl acceso se puede hacer por una vía que parte desde la población de Cajamarca y llega al Corregimiento de Toche, una segunda opción parte del sitio denominado Boquerón, salida de Ibagué hacia Armenia, pasando por los corregimientos de Tapias y Toche; y la tercera que inicia desde el casco urbano de Salento en el Departamento del Quindío y comunica con el corregimiento de Toche.\r\nEdad: El volcán Machín restringe su actividad al Holoceno, como puede ser observado en la tabla siguiente. Su edificio está fundado directamente sobre basamento muy antiguo y allí no hay registro geológico de actividad volcánica neógena previa\r\nDepartamento: Tolima\r\nMunicipio: Jurisdicción del corregimiento de Toche, municipio de Ibagué\r\nEl volcán Cerro Machín está construyéndose sobre un basamento metamórfico paleozoico (Grupo Cajamarca), en cruce de fallas de dirección NNE con otras de tipo transversal. Su historia geológica es muy corta y se caracteriza por su alta explosividad, explicada por la composición dacítica de los productos volcánicos emitidos. Tales productos son domos, tres de los cuales taponan el conducto volcánico, depósitos de flujos piroclásticos de ceniza y pómez, de ceniza y bloques y de oleadas piroclásticas, así como depósitos provenientes de flujos de lodo (lahares).",
+                "location": "Distancia: 150 km al suroccidente de Bogotá, a 17 km al oeste de Ibagué, 30 Km al este de la ciudad de Armenia.",
+                "link": "https://www2.sgc.gov.co/sgc/volcanes/VolcanCerroMachin/Paginas/generalidades-volcan-cerro-machin.aspx",
+                "lastEruption": null,
+                "composition": "Complejo Anillo Piroclástico-Domo",
+                "bulletins": [
+                    {
+                        "name": "Boletín semanal de actividad del Volcán Cerro Machín del 1 al 7 de junio de 2021",
+                        "type": "Semanales",
+                        "update": "2021-06-09 09:54",
+                        "file": "https://saeadmin.sgc.gov.co/media/bulletin/Boletin_semanal_de_actividad_del_volcan_Cerro_Machin_del_01_al_07_de_junio_de_2021.pdf"
+                    }
+                ],
+                "news": []
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.487,
+                    -75.386
+                ]
+            }
+        },
+        {
+            "type": "volcano",
+            "id": 10,
+            "properties": {
+                "VolcanoName": "Volcán Cumbal",
+                "latitude": 0.956,
+                "longitude": -77.885,
+                "msnm": "4764.0 (msnm)",
+                "image": "https://saeadmin.sgc.gov.co/media/volcanoImages/CUMBAL.jpeg",
+                "activityLevel": 3,
+                "activityLevelDescription": "Cambios en el comportamiento de la actividad volcánica",
+                "description": "El complejo volcánico de Cumbal se encuentra localizado en el departamento de Nariño, al occidente de la población de Cumbal, 79 km al sur-occidente de la ciudad de Pasto y 585 km al sur-occidente Santafé de Bogotá, en las coordenadas geográficas de 0° 57' N y 77° 52' W. El acceso a la cima se realiza por un carreteable que parte de Cumbal, hasta la vereda La Ortiga y de allí se desprende un amplio camino de herradura hasta las cercanías de los dos cráteres principales, a los cuales se debe llegar a pie; el recorrido toma como mínimo cuatro horas.",
+                "location": "El complejo volcánico de Cumbal se encuentra localizado en el departamento de Nariño, al occidente de la población de Cumbal",
+                "link": "https://www2.sgc.gov.co/sgc/volcanes/VolcanCumbal/Paginas/generalidades-volcan-cumbal.aspx",
+                "lastEruption": null,
+                "composition": "Estratovolcán o Volcán Compuesto",
+                "bulletins": [
+                    {
+                        "name": "Boletín semanal de actividad del Volcán Cumbal del 1 al 7 de junio de 2021",
+                        "type": "Semanales",
+                        "update": "2021-06-09 08:00",
+                        "file": "https://saeadmin.sgc.gov.co/media/bulletin/Boletin_semanal_volcan_Cumbal_8_jun_2021.pdf"
+                    }
+                ],
+                "news": []
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.956,
+                    -77.885
+                ]
+            }
+        },
+        {
+            "type": "volcano",
+            "id": 12,
+            "properties": {
+                "VolcanoName": "Volcán Galeras",
+                "latitude": 1.221,
+                "longitude": -77.359,
+                "msnm": "4276.0 (msnm)",
+                "image": "https://saeadmin.sgc.gov.co/media/volcanoImages/Galeras.jpg",
+                "activityLevel": 3,
+                "activityLevelDescription": "Cambios en el comportamiento de la actividad volcánica",
+                "description": "El volcán Galeras se localiza en el Departamento de Nariño, aproximadamente a 9 km al occidente de la Ciudad de San Juan de Pasto, capital de este departamento, en las coordenadas 1° 13' 43,8\" de latitud norte y 77° 21' 33,0\" de longitud oeste y con una altura de 4276 msnm. De acuerdo con el Catálogo de Volcanes Activos del Mundo (CAVW) de la Asociación Internacional de Vulcanolgía y Química del Interior de la Tierra (IAVCEI), su código es el 1501-08.\n\nLos indígenas Quillacingas dieron el nombre de \"Urcunina\" (Montaña de Fuego) al volcán de Pasto, hoy conocido \"volcán Galeras\"; llamado así, por los primeros conquistadores españoles, por su semejanza con las Galeras o barcos que con sus velas navegaban en aquel entonces por el Mediterráneo.\n\nPara su acceso tiene una carretera de unos 23 km en regular estado, que va de la ciudad de San Juan de Pasto (sector de Anganoy) hasta la cima y una vía circunvalar de aproximadamente 117,5 km, parcialmente pavimentada que lo rodea en su totalidad comunicando a San Juan de Pasto con los pueblos de Catambuco, Yacuanquer, Consacá, Sandoná, La Florida, Nariño y Genoy, en sentido horario. Adicionalmente, se cuenta con un camino no transitable vehicularmente llamado el Camino Real que une a San Juan de Pasto con Consacá, población localizada en el extremo opuesto al occidente del volcán, camino que atraviesa a media falda la montaña por el costado norte.",
+                "location": "El volcán Galeras se localiza en el Departamento de Nariño, aproximadamente a 9 km al occidente de la Ciudad de San Juan de Pasto",
+                "link": "https://www2.sgc.gov.co/sgc/volcanes/VolcanGaleras/Paginas/generalidades-volcan-galeras.aspx",
+                "lastEruption": null,
+                "composition": "Estratovolcán o Volcán Compuesto",
+                "bulletins": [
+                    {
+                        "name": "Boletín semanal de actividad del Volcán Galeras del 1 al 7 de junio de 2021",
+                        "type": "Semanales",
+                        "update": "2021-06-09 08:01",
+                        "file": "https://saeadmin.sgc.gov.co/media/bulletin/Boletin_semanal_volcan_Galeras_8_jun_2021.pdf"
+                    }
+                ],
+                "news": []
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.221,
+                    -77.359
+                ]
+            }
+        },
+        {
+            "type": "volcano",
+            "id": 14,
+            "properties": {
+                "VolcanoName": "Volcán Nevado del Ruiz",
+                "latitude": 4.895,
+                "longitude": -75.321,
+                "msnm": "5321.0 (msnm)",
+                "image": "https://saeadmin.sgc.gov.co/media/volcanoImages/Volcan_Nevado_del_Ruiz.png",
+                "activityLevel": 3,
+                "activityLevelDescription": "Cambios en el comportamiento de la actividad volcánica",
+                "description": "En época precolombina se le llamaba Cumanday (Cerro Blanco), Tabuchía (Candela o fuego) o Tama (Padre Mayor o Grande).\r\nEl acceso al volcán se hace partiendo de la ciudad de Manizales, se toma la vía a Bogotá y en el sector conocido como el 8 o La Esperanza se desprende la carretera que conduce a la población de Murillo, de la cual se desprende un carreteable en el sitio conocido como Brisas que llega hasta el borde de la nieve. Para ingresar al Parque Nacional Natural de los Nevados se requiere pagar una pequeña suma de dinero al Ministerio del Medio Ambiente, con el fin de darle mantenimiento y recuperación al Parque; así mismo hay que contratar un guía que acompañará y dará los comentarios pertinentes para desarrollar un turismo neta y exclusivamente didáctico y ecológico.\r\nEstá construido sobre el mismo basamento del Cerro Bravo, en la compleja intersección de cuatro grupos de fallas, donde las más significativas son Palestina y Termales - Villamaría. Han ocurrido tres estadios denominados Ruiz Ancestral, Ruiz Viejo y Ruiz que incluyen la construcción y destrucción alternada de tres edificios, generando lavas, depósitos de flujos piroclásticos, de oleadas piroclásticas, de avalanchas de escombros, de piroclastos de caída y de lahares y domos. Sus productos son fundamentalmente andesitas de dos piroxenos, con variaciones a dacitas y andesitas basálticas.",
+                "location": "Distancia: 140 Km al NO de Bogotá y a 28 Km al SE de Manizales",
+                "link": "https://www2.sgc.gov.co/sgc/volcanes/VolcanNevadoRuiz/Paginas/generalidades-volcan-nevado-ruiz.aspx",
+                "lastEruption": null,
+                "composition": "Estratovolcán o Volcán Compuesto",
+                "bulletins": [
+                    {
+                        "name": "Boletín semanal de actividad del Volcán Nevado del Ruiz del 1 al 7 de junio de 2021",
+                        "type": "Semanales",
+                        "update": "2021-06-09 09:08",
+                        "file": "https://saeadmin.sgc.gov.co/media/bulletin/Boletin_semanal_de_actividad_del_volcan_Nevado_del_Ruiz_del_01_al_07_de_junio_de_2021.pdf"
+                    }
+                ],
+                "news": []
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.895,
+                    -75.321
+                ]
+            }
+        },
+        {
+            "type": "earthquake",
+            "id": "SGC2021ljmvhq",
+            "properties": {
+                "status": "manual",
+                "rms": 1.5,
+                "updated": "2021-06-10 23:30:25",
+                "felt": 0,
+                "sm": false,
+                "type": "earthquake",
+                "magType": "Mw(mB)",
+                "agency": "USGS",
+                "cdi": 0,
+                "closerTowns": "",
+                "gap": 127.0,
+                "utcTime": "2021-06-10 23:27",
+                "localTime": "2021-06-10 18:27",
+                "place": "Samara, Costa Rica",
+                "mag": 5.6,
+                "mmi": null,
+                "nst": 74,
+                "maxPGA": null,
+                "beachBall": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.993,
+                    -85.398,
+                    10.0
+                ]
+            }
+        },
+        {
+            "type": "earthquake",
+            "id": "SGC2021leqqxo",
+            "properties": {
+                "status": "manual",
+                "rms": 2.4,
+                "updated": "2021-06-08 08:02:32",
+                "felt": 0,
+                "sm": false,
+                "type": "earthquake",
+                "magType": "Mw(mB)",
+                "agency": "SGC",
+                "cdi": 0,
+                "closerTowns": "",
+                "gap": 163.0,
+                "utcTime": "2021-06-08 07:59",
+                "localTime": "2021-06-08 02:59",
+                "place": "Sur de Panama",
+                "mag": 4.4,
+                "mmi": null,
+                "nst": 46,
+                "maxPGA": null,
+                "beachBall": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.960735798,
+                    -82.60966492,
+                    0.0
+                ]
+            }
+        },
+        {
+            "type": "earthquake",
+            "id": "SGC2021lepkch",
+            "properties": {
+                "status": "manual",
+                "rms": 2.9,
+                "updated": "2021-06-08 07:27:29",
+                "felt": 0,
+                "sm": false,
+                "type": "earthquake",
+                "magType": "Mw(mB)",
+                "agency": "GFZ",
+                "cdi": 0,
+                "closerTowns": "",
+                "gap": 245.0,
+                "utcTime": "2021-06-08 07:21",
+                "localTime": "2021-06-08 02:21",
+                "place": "Near Coast of Peru",
+                "mag": 4.8,
+                "mmi": null,
+                "nst": 44,
+                "maxPGA": null,
+                "beachBall": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.61,
+                    -73.92,
+                    10.0
+                ]
+            }
+        },
+        {
+            "type": "earthquake",
+            "id": "SGC2021lbutbr",
+            "properties": {
+                "status": "manual",
+                "rms": 2.5,
+                "updated": "2021-06-06 18:53:31",
+                "felt": 0,
+                "sm": false,
+                "type": "earthquake",
+                "magType": "Mw(mB)",
+                "agency": "IGP",
+                "cdi": 0,
+                "closerTowns": "",
+                "gap": 103.0,
+                "utcTime": "2021-06-06 18:50",
+                "localTime": "2021-06-06 13:50",
+                "place": "Sta. Maria De Nieva, Condorcanqui - Amazonas",
+                "mag": 4.3,
+                "mmi": null,
+                "nst": 41,
+                "maxPGA": null,
+                "beachBall": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.45,
+                    -78.34,
+                    116.0
+                ]
+            }
+        },
+        {
+            "type": "earthquake",
+            "id": "SGC2021lasbfk",
+            "properties": {
+                "status": "manual",
+                "rms": 2.1,
+                "updated": "2021-06-06 04:27:28",
+                "felt": 0,
+                "sm": false,
+                "type": "earthquake",
+                "magType": "Mw(mB)",
+                "agency": "SGC",
+                "cdi": 0,
+                "closerTowns": "San Lorenzo (Manabí, Ecuador) a 78 km, Santa Marianita (Manabí, Ecuador) a 85 km, Puerto López (Manabí, Ecuador) a 93 km",
+                "gap": 247.0,
+                "utcTime": "2021-06-06 04:24",
+                "localTime": "2021-06-05 23:24",
+                "place": "Costa Afuera de Ecuador",
+                "mag": 4.3,
+                "mmi": null,
+                "nst": 20,
+                "maxPGA": null,
+                "beachBall": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.22787714,
+                    -81.5880127,
+                    4.0
+                ]
+            }
+        }
+    ]
+}
